@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Pascal-Berg/static/js/main.959da921.js",
+    "main.js": "/Pascal-Berg/static/js/main.35a0aa35.js",
     "index.html": "/Pascal-Berg/index.html",
-    "main.959da921.js.map": "/Pascal-Berg/static/js/main.959da921.js.map"
+    "main.35a0aa35.js.map": "/Pascal-Berg/static/js/main.35a0aa35.js.map"
   },
   "entrypoints": [
-    "static/js/main.959da921.js"
+    "static/js/main.35a0aa35.js"
   ]
 }
