@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pascal-berg/static/css/main.073c9b0a.css",
-    "main.js": "/pascal-berg/static/js/main.3a5518ed.js",
-    "static/js/787.f2ed2c9a.chunk.js": "/pascal-berg/static/js/787.f2ed2c9a.chunk.js",
-    "static/media/logo.svg": "/pascal-berg/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/pascal-berg/index.html",
-    "main.073c9b0a.css.map": "/pascal-berg/static/css/main.073c9b0a.css.map",
-    "main.3a5518ed.js.map": "/pascal-berg/static/js/main.3a5518ed.js.map",
-    "787.f2ed2c9a.chunk.js.map": "/pascal-berg/static/js/787.f2ed2c9a.chunk.js.map"
+    "main.css": "/Pascal-Berg/static/css/main.073c9b0a.css",
+    "main.js": "/Pascal-Berg/static/js/main.0a39adbb.js",
+    "static/js/787.f2ed2c9a.chunk.js": "/Pascal-Berg/static/js/787.f2ed2c9a.chunk.js",
+    "static/media/logo.svg": "/Pascal-Berg/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Pascal-Berg/index.html",
+    "main.073c9b0a.css.map": "/Pascal-Berg/static/css/main.073c9b0a.css.map",
+    "main.0a39adbb.js.map": "/Pascal-Berg/static/js/main.0a39adbb.js.map",
+    "787.f2ed2c9a.chunk.js.map": "/Pascal-Berg/static/js/787.f2ed2c9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3a5518ed.js"
+    "static/js/main.0a39adbb.js"
   ]
 }
